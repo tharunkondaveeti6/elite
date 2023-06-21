@@ -1,0 +1,140 @@
+body{
+    background-image: url("t5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* body:hover:not(.login){
+    background-image: url("https://wallpapercave.com/wp/wp3125222.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: changeimg 20s infinite;
+}
+@keyframes changeimg{
+    0%{
+        background-image: url("https://wallpapercave.com/wp/wp3276758.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    10%{
+        background-image: url("https://c4.wallpaperflare.com/wallpaper/799/1014/334/video-game-apex-legends-bangalore-apex-legends-hd-wallpaper-preview.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    20%{
+        background-image: url("https://wallpapercave.com/wp/wp3125222.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    30%{
+        background-image: url("https://wallpapercave.com/dwp1x/wp2444645.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    40%{
+        background-image: url("bg5.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    50%{
+        background-image: url("https://lbcommuter.com/wp-content/uploads/2018/05/Harry-Potter-Hogwarts-Mystery.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    60%{
+        background-image: url("https://wallpapercave.com/wp/wp9731006.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    70%{
+        background-image: url("https://wallpapercave.com/dwp1x/wp259549.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    80%{
+        background-image: url("https://wallpapercave.com/dwp1x/wp11226862.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    90%{
+        background-image: url("https://wallpapercave.com/dwp1x/wp4898095.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    100%{
+        background-image: url("body-bg.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+} */
+#bar{
+    font-size: 30px;
+    padding: 30px;
+    float: right;
+    margin-top: -15%;
+}
+#bar a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 25px;  
+}
+/* #bar a:hover{
+    background-color: black;
+    border: 1.5px solid #fff;
+    border-radius: 50px;
+} */
+.login{  
+    margin: auto;
+    height: 300px;
+    width: 350px;
+    margin-top: 15%;
+  margin-right: 10%;
+  font-style: oblique;
+
+}
+form{
+    height: 300px;
+    width: 400px;
+    border: 2px solid rgb(255, 255, 255);
+    background-color:rgba(255, 255, 255,.5);
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgb(231, 32, 32);
+    border:2px solid red;
+    font-style: oblique;
+    margin-right: auto;
+}
+#form-ele1{
+    margin-top: 10%;
+    padding: 10px 30px;
+    font-style: oblique;
+}
+#form-ele2{
+    padding: 10px 30px;
+    font-style: oblique;
+}
+#submit{
+    width: fit-content;
+    margin: auto;
+    margin-top: 5%;
+    font-style: oblique;
+}
+#btn{
+    height: 40px;
+    width: 100px;
+    border-radius: 0px;
+    font-size: x-large;
+    margin-top: 0px;
+}
+/* #btn:hover{
+    background-color: darkgrey;
+} */
+
+label{
+    font-size: 25px;
+}
+
+
+input{
+    border-radius: 0px;
+    padding: 5px;
+}
